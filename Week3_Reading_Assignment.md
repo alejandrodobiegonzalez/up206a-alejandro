@@ -5,7 +5,7 @@ It is interesting to place this in the context of Los Angeles that is so predica
 
 ##### OSMnx
 
-
+This piece reinforces the points from the Off the Grid article as it reminds planners how the grid system is a manifestation of a well connected City. Given the case sstudies provided, it is clear that suburban areas like Irvine, utilize street design as a way to reduce connectivity between neighbors and intentionally create deadends for privacy and in turn take up more space. This reinforces the notion of the single family home and how it is a housing typology that create division in communities and shuts communities off from one another. The specific tool that the article highlights (OSMx) will OSMnx  allow researchers and practitioners to increase their abilities to manipulate data in a way that is more user friendly and creates access to street networks all over the world. As easy as it is to use this program to acquire information on urban street networks, the tool is limited in that it is unable to tell the user about the quality of the pedestrian environment or quality of the streetscape, and does not have much data available from developing countries. *How can planners use OSMnx in a manner that also highlights the social and political conexts of the neighborhoods that it is representing through data?*
 
 
 
