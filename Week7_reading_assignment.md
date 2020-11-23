@@ -15,6 +15,6 @@ This reading demonstrated a different perspective to question the allocation of 
 
 ## Questions
 
-* How can a system like parking credits / parking reductions be introduced to incentivize using more street space as housing?
-* Is it possible to change the Bureau of Engineering (BOE) mechanism in the City of Los Angeles that determines how highway dedications are allotted by real estate developers for housing projects?
-* Can you speak further to how accessory dwelling units (ADUs) in urban areas can be used to demonstrate how parking and streets are not an optimal use of land? 
+* _How can a system like parking credits / parking reductions be introduced to incentivize using more street space as housing?_
+* _Is it possible to change the Bureau of Engineering (BOE) mechanism in the City of Los Angeles that determines how highway dedications are allotted by real estate developers for housing projects?_
+* _Can you speak further to how accessory dwelling units (ADUs) in urban areas can be used to demonstrate how parking and streets are not an optimal use of land?_ 
