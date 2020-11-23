@@ -1,10 +1,15 @@
-## Reading Assignment: The value of residential streets
+## Reading Assignment: The Value of Residential Streets
 
-##### _In this reading, the author Adam Millard-Ball develops an economic framework to understand the value of residential streets. His research reveals the thinking behind street design and how a shift can be made to value streets less and as a result create more housing. The author argues that little consideration is placed on the value of the underlying land when considering street widths/_
+_In this reading, the author Adam Millard-Ball develops an economic framework to understand the value of residential streets. His research reveals the thinking behind street design and how a shift can be made to value streets less and as a result create more housing. The author argues that little consideration is placed on the value of the underlying land when considering street widths._
 
-##### Initial Thoughts: I have worked on housing projects where it is the developer's responsibility to "give up" developeable land to dedicate to streets and always wondered why this mechanism existed when the priority should be more housing. I agree that streets are valuable land that can be used to create more housing rather than be used to prioritize car usage. I also agree that simply repurposing sidewalks or adding parklets still maintains the status quo and does not go in to change the underlying priority that cars get. It is also interesting that Millard-Ball points out that costs and benefits accrue almost exclusively to neighborhood residents where streets have little activity. This mechamisn therefore empowers single family homeowners more and indirectly adds economic value to them in the form of street value. As if single family homeowners needed another reason to deny density in their neighborhoods! This reading connects deeply with my own research topic that focuses on density and the mechanisms in place that might stop neighborhoods from densifying.
+# Initial Thoughts: 
+* I have worked on housing projects where it is the developer's responsibility to "give up" developeable land to dedicate to streets and always wondered why this mechanism existed when the priority should be more housing. 
+* I agree that streets are valuable land that can be used to create more housing rather than be used to prioritize car usage. I also agree that simply repurposing sidewalks or adding parklets still maintains the status quo and does not go in to change the underlying priority that cars get. 
+*It is also interesting that Millard-Ball points out that costs and benefits accrue almost exclusively to neighborhood residents where streets have little activity. This mechamisn therefore empowers single family homeowners more and indirectly adds economic value to them in the form of street value. As if single family homeowners needed another reason to deny density in their neighborhoods! This reading connects deeply with my own research topic that focuses on density and the mechanisms in place that might stop neighborhoods from densifying.
 
-##### I applaud the writer for calling out urbanists in that they do not do enough to change the systems that prioritize car usage. As he mentions in his article, focusing on parking is not 
+# Reaction
+
+I applaud the writer for calling out urbanists in that they do not do enough to change the systems that prioritize car usage. As he mentions in his article, focusing on parking is not 
 
 I conclude that planners should relax street width standards in subdivision regulations, especially where land costs are high—or even eliminate standards and leave it to developers to balance the allocation of land between streets and other uses.
 
