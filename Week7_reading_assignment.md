@@ -26,7 +26,7 @@ instead of housing. U.S. streets are exceptionally wide by international compari
 In many respects, however, these analyses have been too conservative: they have vigorously questioned the allocation of a fixed right-of-way width, but done little to challenge the overall amount of urban land that is devoted to streets. With few exceptions (Guo and Schloeter 2013; Manville 2017), the question of “how much land should be devoted to streets” has attracted little attention outside of theoretical treatments in urban economics.Street design manuals ignore the simple economic prescription that the more valuable the urban land, the narrower a street should be.
 
 
-#Questions
+# Questions
 
-*How can a system like parking credits / parking reductions be introduced to incentivize using more street space as housing?
-*Is it possible to change the Bureau of Engineering (BOE) mechanism in the City of Los Angeles that determines how highway dedications are allotted by real estate developers for housing projects? 
+* How can a system like parking credits / parking reductions be introduced to incentivize using more street space as housing?
+* Is it possible to change the Bureau of Engineering (BOE) mechanism in the City of Los Angeles that determines how highway dedications are allotted by real estate developers for housing projects? 
